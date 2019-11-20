@@ -1,0 +1,11 @@
+2019-11-20 14:09:17.614 [main] DEBUG net.sppan.base.config.listener.ApplicationEventListener - 初始化环境变量
+2019-11-20 14:09:18.072 [main] INFO  net.sppan.base.Application - Starting Application v0.0.1-SNAPSHOT on PC-201901201150 with PID 19176 (D:\Dtools\project\springboot_authority-master\target\base-0.0.1-SNAPSHOT.jar started by Administrator in C:\Users\Administrator\Desktop\tester\test)
+2019-11-20 14:09:18.086 [main] DEBUG net.sppan.base.Application - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-11-20 14:09:18.089 [main] INFO  net.sppan.base.Application - No active profile set, falling back to default profiles: default
+2019-11-20 14:09:18.289 [main] DEBUG net.sppan.base.config.listener.ApplicationEventListener - 初始化环境变量完成
+2019-11-20 14:10:02.100 [main] DEBUG net.sppan.base.config.listener.ApplicationEventListener - 初始化环境变量
+2019-11-20 14:10:02.509 [main] INFO  net.sppan.base.Application - Starting Application v0.0.1-SNAPSHOT on PC-201901201150 with PID 24220 (D:\Dtools\project\springboot_authority-master\target\base-0.0.1-SNAPSHOT.jar started by Administrator in C:\Users\Administrator\Desktop\tester\test)
+2019-11-20 14:10:02.518 [main] DEBUG net.sppan.base.Application - Running with Spring Boot v1.4.2.RELEASE, Spring v4.3.4.RELEASE
+2019-11-20 14:10:02.542 [main] INFO  net.sppan.base.Application - No active profile set, falling back to default profiles: default
+2019-11-20 14:10:02.703 [main] DEBUG net.sppan.base.config.listener.ApplicationEventListener - 初始化环境变量完成
+2019-11-20 14:10:02.738 [background-preinit] DEBUG org.jboss.logging - Logging Provider: org.jboss.logging.Slf4jLoggerProvider found via system property

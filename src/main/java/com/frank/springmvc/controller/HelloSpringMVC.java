@@ -27,5 +27,10 @@ public class HelloSpringMVC {
     public void HelloWorld4(){  
    	 System.out.println("HelloWorld666666666");
      System.out.println("HelloWorld666666666");
-   } 
+   }
+
+    public void HelloWorld5(){
+        System.out.println("HelloWorld777777777");
+        System.out.println("HelloWorld777777777");
+    }
 }
